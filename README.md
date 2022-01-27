@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently improving my **Java** skill
 
-- 📫 How to reach me **emir2004apaydin@outlook.com**
+- 📫 You can use my e-mail to reach me: **emir2004apaydin@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
