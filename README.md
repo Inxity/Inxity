@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inxity&label=Profile%20views&color=500eb4&style=flat" alt="inxity" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inxity" alt="inxity" /></a> </p>
-
 - 🔭 I’m currently working on [Treasure Game Servers](https://dc.treas.network)
 
 - 🌱 I’m currently improving my **Java** skill
