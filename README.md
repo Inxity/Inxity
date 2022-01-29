@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emirpydn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirpydn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emir-apaydın-ba1b9622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirpydn" height="30" width="40" /></a>
 <a href="https://instagram.com/emirpydn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirpydn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/treasure inc." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="treasure inc." height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCrQHIVHCRN5oW3QfDFQu9uA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="treasure inc." height="30" width="40" /></a>
 <a href="https://discord.gg/epB4fnEmxA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="epB4fnEmxA" height="30" width="40" /></a>
 </p>
 
