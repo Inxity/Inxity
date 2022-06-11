@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">weirdo person with glizzy brain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inxity&label=Profile%20views&color=500eb4&style=flat" alt="inxity" /> </p>
 
