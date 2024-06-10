@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inxity&label=Profile%20views&color=500eb4&style=flat" alt="inxity" /> </p>
 
-- 🔭 I’m currently working on [Treasure Game Servers](https://dc.treas.network)
+- 🔭 I’m currently working on [Treas Host](https://treas.host)
 
-- 🌱 I’m currently improving my **Java** skill
+- 🌱 Java enthaustiant with a demonstrated history of working in the information technology and services industry.
 
-- 📫 You can use my e-mail to reach me: **emir2004apaydin@outlook.com**
+- 📫 You can use my e-mail to reach me: **emir@treas.host**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
